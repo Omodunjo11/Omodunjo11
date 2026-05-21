@@ -1,5 +1,7 @@
 # Onaolapo (Lapo) Odunjo
 
+**Portfolio:** [lapo-portfolio-next.vercel.app](https://lapo-portfolio-next.vercel.app)
+
 Technical Product Manager | AI Systems & Identity Infrastructure | Wharton MBA ’26
 
 AI-native TPM who builds and ships production ML systems — not just roadmaps. I operate at the intersection of product strategy, system architecture, and applied machine learning.
