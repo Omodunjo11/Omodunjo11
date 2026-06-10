@@ -1,6 +1,6 @@
 # Onaolapo (Lapo) Odunjo
 
-**Portfolio:** [lapo-portfolio-next.vercel.app](https://lapo-portfolio-next.vercel.app)
+**Portfolio:** lapoodunjo.com
 
 Technical Product Manager | AI Systems & Identity Infrastructure | Wharton MBA ’26
 
