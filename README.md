@@ -1,6 +1,6 @@
 # Onaolapo (Lapo) Odunjo
 
-**Portfolio:** lapoodunjo.com
+**Portfolio:** [lapoodunjo.com
 
 Technical Product Manager | AI Systems & Identity Infrastructure | Wharton MBA ’26
 
