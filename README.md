@@ -1,8 +1,8 @@
 # Onaolapo (Lapo) Odunjo
 
-**Portfolio:** [lapoodunjo.com
+**Portfolio:** [lapoodunjo.com](https://lapoodunjo.com)
 
-Technical Product Manager | AI Systems & Identity Infrastructure | Wharton MBA ’26
+Technical Product Manager | AI Systems & Identity Infrastructure | Wharton MBA '26
 
 AI-native TPM who builds and ships production ML systems — not just roadmaps. I operate at the intersection of product strategy, system architecture, and applied machine learning.
 
@@ -19,7 +19,7 @@ Personally deployed LLM classification engines, RAG pipelines, vector search inf
 
 ## Selected Work
 
-### Kinage — AI Systems & Identity Infrastructure
+### Enterprise AI & Identity Infrastructure
 Designed and shipped OAuth 2.0 / OIDC implementation via Auth0 across web and admin tooling, including RBAC architecture, JWT lifecycle management, step-up MFA triggers, and system-of-record enforcement.
 
 Architected dual-memory RAG systems with grounding-first generation, source isolation, abstention policies, and evaluation harnesses tracking precision/recall, drift, latency (P50/P95), and token sensitivity.
@@ -34,30 +34,53 @@ Built multithreaded C++ vector search engine (100K × 768-dim embeddings), reduc
 
 Benchmarked scalar vs SIMD (NEON) implementations; diagnosed memory bandwidth saturation as dominant bottleneck.
 
+## Private Repositories
+
+Several production and client-adjacent projects are private to protect IP. They are documented on my portfolio with architecture breakdowns and outcomes.
+
+| Repository | Description |
+|------------|-------------|
+| [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | WhatsApp-native credit platform (Kova) |
+| [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM intelligence — signal feeds, CRM enrichment, outreach dashboard |
+| [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Signal monitoring & CRM intelligence layer |
+| [regulatory-compliance-cockpit](https://github.com/Omodunjo11/regulatory-compliance-cockpit) | Regulatory disclosure monitoring & remediation cockpit |
+| [transcript-intelligence-pipeline](https://github.com/Omodunjo11/transcript-intelligence-pipeline) | Sales transcript → structured GTM insights pipeline |
+
+*Links return 404 unless you have access — that is expected.*
+
+## Code Access for Recruiters
+
+If you are reviewing my work as part of a hiring process:
+
+1. Email **odunjoonaolapo@gmail.com** with your **GitHub username** and which project(s) you want to review.
+2. I add you as a **read-only collaborator** on the relevant private repo(s) within 48 hours.
+3. Access is **temporary** — I remove collaborator access after the review window.
+
+For architecture context without code, start at [lapoodunjo.com/projects](https://lapoodunjo.com/projects).
+
 ## Writing & Research
 
 I write about AI systems, identity infrastructure, ML evaluation, and technical product thinking.
 
-Substack:
-https://substack.com/@onaolapomichaelodunjo
+Substack: https://substack.com/@onaolapomichaelodunjo
 
 ## Portfolio
 
-Full product breakdowns, case studies, and system architecture details:
-https://lapo-portfolio.vercel.app
+Full product breakdowns, case studies, and system architecture details:  
+https://lapoodunjo.com
 
 ## Technical Depth
 
-**Languages**
+**Languages**  
 C++ · Python · SQL · TypeScript  
 
-**AI / ML**
+**AI / ML**  
 RAG architecture · Embeddings · Vector search · LLM evaluation · Drift detection · HITL escalation  
 
-**Identity**
+**Identity**  
 OAuth 2.0 · OIDC · SAML · Auth0 · Firebase Auth · JWT lifecycle · Authorization Code + PKCE · RBAC / ABAC · MFA  
 
-**Systems**
+**Systems**  
 FastAPI · pgvector · Latency modeling (P50/P95/P99) · Event instrumentation (PostHog) · Schema governance  
 
 ## Product Philosophy
