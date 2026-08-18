@@ -34,29 +34,30 @@ Open repos that demonstrate systems thinking, reliability design, deployment jud
 | [llm-system-reliability](https://github.com/Omodunjo11/llm-system-reliability) | Hand-rolled RAG trust layer: retrieval, confidence scoring, abstention, faithfulness evaluation |
 | [ai-retrieval-core-cpp](https://github.com/Omodunjo11/ai-retrieval-core-cpp) | C++ vector search engine — latency benchmarking across threading and SIMD strategies |
 | [Incident-Command](https://github.com/Omodunjo11/Incident-Command) | Opinionated incident management UI built from post-mortem coordination failure patterns |
-| [Personal-Assistant-](https://github.com/Omodunjo11/Personal-Assistant-) | Agentic AI assistant — trust boundaries, guardrails, and failure mode documentation |
 | [Mailgun-Push](https://github.com/Omodunjo11/Mailgun-Push) | Transactional email and push with delivery observability and retry handling |
 | [lapo-portfolio-next](https://github.com/Omodunjo11/lapo-portfolio-next) | Portfolio site — Next.js, project case studies, writing |
-| [kwasi-quest](https://github.com/Omodunjo11/kwasi-quest) | Personal RPG-style web quest for a friend's first NYC trip — not a portfolio project |
-| [aaif-platform](https://github.com/Omodunjo11/aaif-platform) | African AI Foundation platform — community, events, member resources |
-| [AAIF-Website](https://github.com/Omodunjo11/AAIF-Website) | African AI Foundation public marketing site |
+| [aaif-platform](https://github.com/Omodunjo11/aaif-platform) | Community platform — events, membership, member resources |
+| [AAIF-Website](https://github.com/Omodunjo11/AAIF-Website) | Public marketing site for community org work |
 
 ---
 
-## Private Production Repositories
+## Private Repositories
 
-Production and client-adjacent code is private. Repo links return 404 unless you have access.
+Production code, interview prep, and personal tooling. Links return 404 unless you have access.
 
 | Repository | Description |
 |------------|-------------|
 | [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | WhatsApp credit platform — scoring, lending, verification, collector vouching |
-| [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Kinage HAL — multi-source ingest, semantic ICP scoring, ranked intelligence feed + Next.js dashboard |
-| [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM outreach layer — Clay/HubSpot enrichment, author scoring, outreach queues |
+| [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Multi-source ingest, semantic ICP scoring, ranked intelligence feed + Next.js dashboard |
+| [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM outreach layer — CRM enrichment, author scoring, outreach queues |
 | [transcript-intelligence-pipeline](https://github.com/Omodunjo11/transcript-intelligence-pipeline) | Sales transcript → structured GTM insights pipeline (Drive → LLM → Doc) |
 | [regulatory-compliance-cockpit](https://github.com/Omodunjo11/regulatory-compliance-cockpit) | Regulatory disclosure monitoring and remediation cockpit |
 | [enterprise-notifications-layer](https://github.com/Omodunjo11/enterprise-notifications-layer) | Event-driven notification and activity logging layer |
-| [recapture-lab](https://github.com/Omodunjo11/recapture-lab) | Interactive modeling lab for enterprise customer recapture and expansion economics |
-| [recruiting-season](https://github.com/Omodunjo11/recruiting-season) | Private recruiting ops — agents, briefs, pipeline, war room |
+| [sierra-agent-expansion](https://github.com/Omodunjo11/sierra-agent-expansion) | Agent expansion workshop — interview prep, conversation lab, take-home deck |
+| [recruiting-season](https://github.com/Omodunjo11/recruiting-season) | Personal recruiting ops — agents, briefs, pipeline, war room |
+| [recapture-lab](https://github.com/Omodunjo11/recapture-lab) | Interactive modeling lab for enterprise recapture and expansion economics |
+| [Personal-Assistant-](https://github.com/Omodunjo11/Personal-Assistant-) | Personal agentic assistant — schedules, guardrails, failure modes |
+| [kwasi-quest](https://github.com/Omodunjo11/kwasi-quest) | Personal side project — not portfolio work |
 
 ---
 
@@ -70,7 +71,7 @@ Older or superseded repos. Kept for history; active work lives elsewhere.
 | [Website](https://github.com/Omodunjo11/Website) | Legacy personal site — see **lapo-portfolio-next** |
 | [archived-ai-pipeline-layer](https://github.com/Omodunjo11/archived-ai-pipeline-layer) | Deprecated — merged into **enterprise-signal-platform** |
 | [Kinage-Transcript-Tool](https://github.com/Omodunjo11/Kinage-Transcript-Tool) | Deprecated — see **transcript-intelligence-pipeline** |
-| [Glean-Regulatory-Intelligence](https://github.com/Omodunjo11/Glean-Regulatory-Intelligence) | Early regulatory intel prototype — see **regulatory-compliance-cockpit** |
+| [Glean-Regulatory-Intelligence](https://github.com/Omodunjo11/Glean-Regulatory-Intelligence) | Early prototype — see **regulatory-compliance-cockpit** |
 | [Glean-Regulatory](https://github.com/Omodunjo11/Glean-Regulatory) | Deprecated — see **regulatory-compliance-cockpit** |
 | [Regulatory-Intelligence](https://github.com/Omodunjo11/Regulatory-Intelligence) | Deprecated experiments — see **regulatory-compliance-cockpit** |
 
@@ -84,7 +85,7 @@ Reviewing my work as part of a hiring process?
 2. I add you as a **read-only collaborator** on the relevant private repo(s) within 48 hours.
 3. Access is **temporary** — removed after the review window.
 
-**Common requests:** `enterprise-signal-platform` (GTM/HAL), `transcript-intelligence-pipeline`, `Kova-Bot`, `regulatory-compliance-cockpit`.
+**Common requests:** `enterprise-signal-platform`, `transcript-intelligence-pipeline`, `Kova-Bot`, `regulatory-compliance-cockpit`.
 
 For architecture context without code, start at [lapoodunjo.com/projects](https://lapoodunjo.com/projects).
 
