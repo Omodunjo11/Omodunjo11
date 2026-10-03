@@ -15,10 +15,11 @@ Full case studies, architecture breakdowns, and outcomes live on the portfolio. 
 | Project | Status | Details |
 |---------|--------|---------|
 | [**Kova**](https://lapoodunjo.com/projects/kova-bot) | Live | WhatsApp-native credit platform for Nigeria's informal economy |
-| [**GTM Intelligence Platform**](https://lapoodunjo.com/projects/gtm-intelligence-platform) | Live | 57-source signal ingest, ICP scoring, CRM enrichment, ranked outreach queues |
-| [**Regulatory Compliance Cockpit**](https://lapoodunjo.com/projects/regulatory-compliance-cockpit) | Live | Mission control for compliance officers — detect drift, triage, remediate |
-| [**Transcript Intelligence**](https://lapoodunjo.com/projects/transcript-intelligence) | Live | Sales call transcripts → structured GTM insights, zero manual steps |
-| [**Desk OS**](https://desk-os-pi.vercel.app) | Live | Process overlay for high-stakes work queues — identify, prioritize, act, learn |
+| [**GTM Intelligence Platform**](https://lapoodunjo.com/projects/gtm-intelligence-platform) | Live | 88-feed signal ingest, tiered scoring, Clay enrichment, ICP classification, HubSpot sync |
+| [**Regulatory Compliance Cockpit**](https://lapoodunjo.com/projects/regulatory-compliance-cockpit) | Live | Mission control for compliance officers: detect drift, triage, remediate |
+| [**Desk OS**](https://lapoodunjo.com/projects/desk-os) | Live | Process overlay for high-stakes work queues: identify, prioritize, act, learn |
+| [**Deployment Agent**](https://lapoodunjo.com/projects/deployment-agent) | Built | Messy customer docs into a platform config plus an evidence-backed audit log |
+| [**Transcript Intelligence**](https://lapoodunjo.com/projects/transcript-intelligence) | Built | Sales call transcripts into structured CRM records, zero manual steps |
 
 → [View all projects](https://lapoodunjo.com/projects)
 
@@ -30,34 +31,29 @@ Open repos that demonstrate systems thinking, reliability design, deployment jud
 
 | Repository | What it is |
 |------------|------------|
-| [desk-os](https://github.com/Omodunjo11/desk-os) | Process OS for high-stakes work queues — overlay, not a fifth system of record |
-| [llm-system-reliability](https://github.com/Omodunjo11/llm-system-reliability) | Hand-rolled RAG trust layer: retrieval, confidence scoring, abstention, faithfulness evaluation |
-| [ai-retrieval-core-cpp](https://github.com/Omodunjo11/ai-retrieval-core-cpp) | C++ vector search engine — latency benchmarking across threading and SIMD strategies |
+| [desk-os](https://github.com/Omodunjo11/desk-os) | Process OS for high-stakes work queues: an overlay, not a fifth system of record |
+| [llm-system-reliability](https://github.com/Omodunjo11/llm-system-reliability) | Hand-rolled RAG trust layer: retrieval, abstention, faithfulness eval, regression harness, drift monitor |
+| [ai-retrieval-core-cpp](https://github.com/Omodunjo11/ai-retrieval-core-cpp) | C++ vector search engine: latency benchmarking across threading and SIMD strategies |
 | [Incident-Command](https://github.com/Omodunjo11/Incident-Command) | Opinionated incident management UI built from post-mortem coordination failure patterns |
 | [Mailgun-Push](https://github.com/Omodunjo11/Mailgun-Push) | Transactional email and push with delivery observability and retry handling |
-| [lapo-portfolio-next](https://github.com/Omodunjo11/lapo-portfolio-next) | Portfolio site — Next.js, project case studies, writing |
-| [aaif-platform](https://github.com/Omodunjo11/aaif-platform) | Community platform — events, membership, member resources |
+| [aaif-platform](https://github.com/Omodunjo11/aaif-platform) | Community platform: events, membership, member resources |
 | [AAIF-Website](https://github.com/Omodunjo11/AAIF-Website) | Public marketing site for community org work |
 
 ---
 
 ## Private Repositories
 
-Production code, interview prep, and personal tooling. Links return 404 unless you have access.
+Production code kept private to protect client IP. Access is available on request (see below).
 
 | Repository | Description |
 |------------|-------------|
-| [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | WhatsApp credit platform — scoring, lending, verification, collector vouching |
-| [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Multi-source ingest, semantic ICP scoring, ranked intelligence feed + Next.js dashboard |
-| [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM outreach layer — CRM enrichment, author scoring, outreach queues |
-| [transcript-intelligence-pipeline](https://github.com/Omodunjo11/transcript-intelligence-pipeline) | Sales transcript → structured GTM insights pipeline (Drive → LLM → Doc) |
+| [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | WhatsApp credit platform: scoring, lending, verification, collector vouching |
+| [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Multi-source signal ingest, tiered scoring, ranked intelligence feed, Clay and HubSpot sync |
+| [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM outreach layer: CRM enrichment, ICP classification, outreach queues |
+| [transcript-intelligence-pipeline](https://github.com/Omodunjo11/transcript-intelligence-pipeline) | Sales transcripts into structured CRM records (Drive, LLM, Fibery) |
 | [regulatory-compliance-cockpit](https://github.com/Omodunjo11/regulatory-compliance-cockpit) | Regulatory disclosure monitoring and remediation cockpit |
 | [enterprise-notifications-layer](https://github.com/Omodunjo11/enterprise-notifications-layer) | Event-driven notification and activity logging layer |
-| [sierra-agent-expansion](https://github.com/Omodunjo11/sierra-agent-expansion) | Agent expansion workshop — interview prep, conversation lab, take-home deck |
-| [recruiting-season](https://github.com/Omodunjo11/recruiting-season) | Personal recruiting ops — agents, briefs, pipeline, war room |
-| [recapture-lab](https://github.com/Omodunjo11/recapture-lab) | Interactive modeling lab for enterprise recapture and expansion economics |
-| [Personal-Assistant-](https://github.com/Omodunjo11/Personal-Assistant-) | Personal agentic assistant — schedules, guardrails, failure modes |
-| [kwasi-quest](https://github.com/Omodunjo11/kwasi-quest) | Personal side project — not portfolio work |
+| [Personal-Assistant-](https://github.com/Omodunjo11/Personal-Assistant-) | Agentic assistant: trust boundaries, guardrails, failure modes |
 
 ---
 
@@ -67,8 +63,8 @@ Older or superseded repos. Kept for history; active work lives elsewhere.
 
 | Repository | Note |
 |------------|------|
-| [lapo-portfolio](https://github.com/Omodunjo11/lapo-portfolio) | Legacy portfolio — see **lapo-portfolio-next** |
-| [Website](https://github.com/Omodunjo11/Website) | Legacy personal site — see **lapo-portfolio-next** |
+| [lapo-portfolio](https://github.com/Omodunjo11/lapo-portfolio) | Legacy portfolio: see [lapoodunjo.com](https://lapoodunjo.com) |
+| [Website](https://github.com/Omodunjo11/Website) | Legacy personal site: see [lapoodunjo.com](https://lapoodunjo.com) |
 | [archived-ai-pipeline-layer](https://github.com/Omodunjo11/archived-ai-pipeline-layer) | Deprecated — merged into **enterprise-signal-platform** |
 | [Kinage-Transcript-Tool](https://github.com/Omodunjo11/Kinage-Transcript-Tool) | Deprecated — see **transcript-intelligence-pipeline** |
 | [Glean-Regulatory-Intelligence](https://github.com/Omodunjo11/Glean-Regulatory-Intelligence) | Early prototype — see **regulatory-compliance-cockpit** |
