@@ -14,7 +14,7 @@ Full case studies, architecture breakdowns, and outcomes live on the portfolio. 
 
 | Project | Status | Details |
 |---------|--------|---------|
-| [**Kova**](https://lapoodunjo.com/projects/kova-bot) | Live | WhatsApp-native credit platform for Nigeria's informal economy |
+| [**Kova**](https://lapoodunjo.com/projects/kova-bot) | Live | Payment matching and collections for schools and organisations in Nigeria and South Africa: bank statements in, every payment matched, Kova Agent for customers on WhatsApp |
 | [**GTM Intelligence Platform**](https://lapoodunjo.com/projects/gtm-intelligence-platform) | Live | 88-feed signal ingest, tiered scoring, Clay enrichment, ICP classification, HubSpot sync |
 | [**Regulatory Compliance Cockpit**](https://lapoodunjo.com/projects/regulatory-compliance-cockpit) | Live | Mission control for compliance officers: detect drift, triage, remediate |
 | [**Desk OS**](https://lapoodunjo.com/projects/desk-os) | Live | Process overlay for high-stakes work queues: identify, prioritize, act, learn |
@@ -47,7 +47,7 @@ Production code kept private to protect client IP. Access is available on reques
 
 | Repository | Description |
 |------------|-------------|
-| [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | WhatsApp credit platform: scoring, lending, verification, collector vouching |
+| [Kova-Bot](https://github.com/Omodunjo11/Kova-Bot) | Kova Ledger, Agent, Trust and Capital: statement imports, evidence-based payment matching with review, WhatsApp agent, 0 to 100 Kova Score |
 | [enterprise-signal-platform](https://github.com/Omodunjo11/enterprise-signal-platform) | Multi-source signal ingest, tiered scoring, ranked intelligence feed, Clay and HubSpot sync |
 | [enterprise-gtm-platform](https://github.com/Omodunjo11/enterprise-gtm-platform) | GTM outreach layer: CRM enrichment, ICP classification, outreach queues |
 | [transcript-intelligence-pipeline](https://github.com/Omodunjo11/transcript-intelligence-pipeline) | Sales transcripts into structured CRM records (Drive, LLM, Fibery) |
